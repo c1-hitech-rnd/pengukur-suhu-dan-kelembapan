@@ -1,4 +1,4 @@
-/* https://github.com/conehitech/pengukur-suhu-dan-kelembapan.git
+/* https://github.com/c1-hitech-rnd/pengukur-suhu-dan-kelembapan.git
  *
  * Program untuk alat pengukur suhu dan kelembapan
  * oleh: Nurzaman, Hilman x C1 - HiTech R & D
