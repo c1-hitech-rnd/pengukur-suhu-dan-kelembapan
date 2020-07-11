@@ -9,5 +9,5 @@ Program Arduino untuk alat pengukur suhu dan kelembapan sederhana.
 
 ## Download
 ```sh
-git clone https://github.com/conehitech/pengukur_suhu_dan_kelembapan.git
+git clone https://github.com/c1-hitech-rnd/pengukur-suhu-dan-kelembapan.git
 ```
